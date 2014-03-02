@@ -1,3 +1,20 @@
 /*put styles here. 
 
 syling information.  what font hsould the paragraphs be and classes and stuff.
+include bootstrap script and link
+
+dot means class (ex:.subtitle)
+# means ID
+
+margin is top right bottom left order
+*/
+h1 { 
+	color:red;
+
+
+}
+.subtitle{
+	color:#aaaaaa;
+	margin:-20px 0 20px 0;
+
+}
